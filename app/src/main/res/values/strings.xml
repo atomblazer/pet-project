@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pet-project</string>
+    <string name="WelcomeText">It\'s SlashMan</string>
+    <string name="WarningText">Beware SlashMan!</string>
+</resources>
